@@ -3,6 +3,7 @@
 Proteus 9.2 versiyonu ile çizilmiştir. Alt versiyon ile açamazsınız.
 
 ### Özellikler
+---------------------------------------------------------------------------
 * İşlemci ->stm32f103c8t6
 * GSM Modul->sim800
 * Usb port
@@ -11,7 +12,7 @@ Proteus 9.2 versiyonu ile çizilmiştir. Alt versiyon ile açamazsınız.
 * stm boot0 ve boot1 secim switch'i,
 * 4 adet led
 * Nano sim konnektoru
-
+----------------------------------
 
 ### Pin Haritası
 
